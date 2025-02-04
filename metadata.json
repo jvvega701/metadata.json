@@ -1,0 +1,18 @@
+{
+  "name": "Frank N Roze",
+  "symbol": "FNR",
+  "description": "A token celebrating the elegance of Frank N Roze. 🌹",
+  "image": "https://github.com/jvvega701/fnrpng/blob/main/franknrozecoin.png",
+  "external_url": "https://franknroze.com",
+  "seller_fee_basis_points": 500,
+  "attributes": [
+    {
+      "trait_type": "Coffee Shop",
+      "value": "Elegance"
+    },
+    {
+      "trait_type": "Purpose",
+      "value": "Celebration"
+    }
+  ]
+}
